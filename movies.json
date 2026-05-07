@@ -1,19 +1,31 @@
-[
-  {
-    "id": "1",
+[{
+    "id": "gaayapadda-simham",
     "title": "Gaayapadda Simham",
     "year": "2026",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIhr9I7et4qHvWlQxXPSc-68GbqIql0r1J-lvRVFlVgoWpZiczyxVkd3UFJhEhEwA0QxCfj8c46ag_-gfXNqaQpgVkjVSGI-Vw9IFBSkrQyMT1Pd8Ot-MYXBnAgOW2VqRAxetu_dYuFMfBuaaqEmbKK88_FAP4RNoFAdFtrBexURQeblwC2GWDDfD1X_L/w230/1000029672.webp",
-    "link": "https://reviews-let.blogspot.com/2026/05/gaayapadda-simham.html"
+    "link": "https://reviews-let.blogspot.com/2026/05/gaayapadda-simham.html",
+    
+    "genre": "Comedy / Drama",
+    "cast": "Faria Abdullah, Maanasa Chaudhary, Tharun Bhascker",
+    "director": "Kasyap Sreenivas",
+    "synopsis": "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there.",
+    "trailerUrl": "https://youtu.be/your_youtube_id",
+    "downloadUrl": "https://reviews-let.blogspot.com/p/links.html?id=Gaayapadda_Simham"
   },
   {
-    "id": "2",
-    "title": "Jetlee",
+    "id": "gaayapadda-skis",
+    "title": "Gaayapadda Simham 2",
     "year": "2026",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY57VDsVpVKmOCWdwEKAqgiQJps28OJLCzRGZw0Lu4Optv1F8URN1D3lKGMtEWMFiI6m6I6MzjWkVIVvBCXES32OjHF0eOd66E7LPCIyiBNn9tr1lCsd6Lh4EII7b3KcARShjYCSMgQ6fMtRfSBuF-4vhTsN-ZH4PlbqxIPssAL_jEx_CwYel4GvvxsdA5/w230/1000029670.webp",
-    "link": "https://reviews-let.blogspot.com/2026/05/jetlee.html"
-  },
-  {
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvIhr9I7et4qHvWlQxXPSc-68GbqIql0r1J-lvRVFlVgoWpZiczyxVkd3UFJhEhEwA0QxCfj8c46ag_-gfXNqaQpgVkjVSGI-Vw9IFBSkrQyMT1Pd8Ot-MYXBnAgOW2VqRAxetu_dYuFMfBuaaqEmbKK88_FAP4RNoFAdFtrBexURQeblwC2GWDDfD1X_L/w230/1000029672.webp",
+    "link": "https://reviews-let.blogspot.com/2026/05/gaayapadda-simham.html",
+    
+    "genre": "Comedy / Drama",
+    "cast": "Faria Abdullah, Maanasa Chaudhary, Tharun Bhascker",
+    "director": "Kasyap Sreenivas",
+    "synopsis": "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there.",
+    "trailerUrl": "https://youtu.be/your_youtube_id",
+    "downloadUrl": "https://reviews-let.blogspot.com/p/links.html?id=Gaayapadda_Simham"
+  },  {
     "id": "3",
     "title": "Kara",
     "year": "2026",
